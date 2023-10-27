@@ -8,7 +8,7 @@ This node.js and SQL application allows users to create, update, and manage a da
 
 To use the application, navigate to the correct working directory and input 'npm start'. Then, via an API management system such as postman or insomnia, users can create new categories, products, or tags via the POST route, view categories, products, or tags via the GET route, update categories, products, or tags via the PUT route, or delete categories, products, or tags via the DELETE route.
 
-# Screenshot
+# Screenshots
 
 GET Request
 <img width="627" alt="GET Request Example" src="https://github.com/tmcmanus95/ecommerce-cms/assets/122508345/5871a3a2-4bf3-4706-8f8e-685f43175d98">
@@ -20,6 +20,8 @@ DELETE Request
 <img width="666" alt="DELETE Request Example" src="https://github.com/tmcmanus95/ecommerce-cms/assets/122508345/f3d113df-03c5-4471-8101-950eb7588c5d">
 
 # Video Walkthough Link
+
+https://drive.google.com/file/d/1HnWL9ysV4GCg_8BMPLWpf_pE7OXlImzT/view
 
 # License
 
