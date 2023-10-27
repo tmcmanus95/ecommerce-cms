@@ -10,9 +10,13 @@ To use the application, navigate to the correct working directory and input 'npm
 
 # Screenshot
 
+GET Request
 <img width="627" alt="GET Request Example" src="https://github.com/tmcmanus95/ecommerce-cms/assets/122508345/5871a3a2-4bf3-4706-8f8e-685f43175d98">
+POST Request
 <img width="622" alt="POST Request Example" src="https://github.com/tmcmanus95/ecommerce-cms/assets/122508345/d8b5238e-a195-4bfb-9151-9740ea0d32f4">
+PUT Request
 <img width="664" alt="PUT Request Example" src="https://github.com/tmcmanus95/ecommerce-cms/assets/122508345/d9a73fd4-7f7f-4212-9254-3c0a198c2dcb">
+DELETE Request
 <img width="666" alt="DELETE Request Example" src="https://github.com/tmcmanus95/ecommerce-cms/assets/122508345/f3d113df-03c5-4471-8101-950eb7588c5d">
 
 # Video Walkthough Link
