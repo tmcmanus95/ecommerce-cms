@@ -1,4 +1,4 @@
-const { ProductTag } = require("../ecommerce-cms/models");
+const { ProductTag } = require("../models");
 
 const productTagData = [
   {

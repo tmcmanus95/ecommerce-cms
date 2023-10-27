@@ -1,10 +1,5 @@
 const router = require("express").Router();
-const {
-  Product,
-  Category,
-  Tag,
-  ProductTag,
-} = require("../../ecommerce-cms/models");
+const { Product, Category, Tag, ProductTag } = require("../../models");
 
 // The `/api/products` endpoint
 router.get("/", async (req, res) => {
